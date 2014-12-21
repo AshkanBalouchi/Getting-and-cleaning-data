@@ -1,4 +1,4 @@
-Getting-and-cleaning-data
+Getting and cleaning data course project:
 =========================
 
 Project for the Coursera course "Getting and cleaning data"!
