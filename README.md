@@ -6,6 +6,9 @@ The run_analysis.R reads the data from the directory "UCI HAR Dataset". Once you
 
 # How the code works
 
+* In order to run the code, one first put the directory including the data in the work directory. For that, one should download the .zip file from the url:
+  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+* Unzip the downloaded data.
 * The Code first reads the data files from the "UCI HAR Dataset" directory placed in the work directory.
 * Then Merges the training and test data set to build a big data set including all the results merged to gether.
 * At tihs step the code exracts only the measurements on the mean and standard deviation for each measurement.
